@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan 20 14:20:39 2016
+Wed Jan 20 2016
 
-@author: Saxoriko
+@author: Saxoriko, William Schuch
 """
 
 
